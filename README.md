@@ -35,4 +35,4 @@ Contendo em meu currículo o diferencial de segmentos diversos, entre Forças Ar
 ## Projetos:
 Analise de Crédito de Emprestimo Bancario 
 
-* **Analise Crédito:** https://colab.research.google.com/drive/1OE4FGYwS12fSS7yy5Cn-S2qJnR3dVmz5?usp=sharing
+* **Analise Crédito:** https://bit.ly/3dGe91A
