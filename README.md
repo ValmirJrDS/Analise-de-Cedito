@@ -28,7 +28,7 @@ Contendo em meu currículo o diferencial de segmentos diversos, entre Forças Ar
 
 **Links:**
 * [Projeto de Analise de Crédito Resumido](https://bit.ly/3dGETPF)
-* [LinkedIn](https://www.linkedin.com/in/carlosfab)
+* [LinkedIn](https://www.linkedin.com/posts/valmir-junior-datascientist_activity-6875591761192988672-_vB-)
 * [Medium](https://medium.com/@valmirmoreirajunior)
 
 
